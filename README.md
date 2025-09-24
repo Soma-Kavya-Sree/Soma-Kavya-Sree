@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 SOMA KAVYA SREE
 🔭 I’m currently working on DATA SCIENCE AND ARTIFICIAL INTELLIGENCE<br><br>🌱 I’m currently learning Data structures and Algorithms AND EXPLORING DATA<br><br>👨‍💻 All of my works are available at https://github.com/Soma-Kavya-Sree<br><br>📝 I regularly practice DSA problems <br><br>📫 How to reach me kavyasreesoma1@gmail.com<br><br>⚡ Fun fact I am Funny and collaborative
 
 
